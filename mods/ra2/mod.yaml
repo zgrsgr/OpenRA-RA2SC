@@ -202,7 +202,7 @@ Hotkeys:
 
 LoadScreen: LogoStripeLoadScreen
 	Image: ra2|uibits/loadscreen.png
-	Text: 游戏启动中...
+	Text: 游戏正在启动...
 
 ServerTraits:
 	LobbyCommands

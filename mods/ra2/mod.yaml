@@ -1,11 +1,11 @@
 Metadata:
-	Title: Red Alert 2
-	Description: The Soviet Union is back!\nThis time to conquer the United States...
-	Version: {DEV_VERSION}
+	Title: 红色警戒2
+	Description: 苏联已经回归！\n是时候战胜美国了...
+	Version: prep-2003-sc
 	Author: the RA2 mod team
 
 ModCredits:
-	ModTabTitle: Red Alert 2
+	ModTabTitle: 红色警戒2
 	ModCreditsFile: ra2|CREDITS # TODO rename to AUTHORS as stated in the .cs files when OpenRA#17460 is available
 
 PackageFormats: Mix, AudioBag
@@ -190,7 +190,7 @@ Music:
 	ra2|audio/music.yaml
 
 Translations:
-	ra2|languages/english.yaml
+	ra2|languages/chinese.yaml
 
 Hotkeys:
 	common|hotkeys/game.yaml
@@ -202,7 +202,7 @@ Hotkeys:
 
 LoadScreen: LogoStripeLoadScreen
 	Image: ra2|uibits/loadscreen.png
-	Text: Carving wooden nickels..., Preparing paratroopers..., Welcoming you to Texas..., Optimizing helium mix..., Receiving thoughts..., Igniting boosters...
+	Text: 游戏启动中...
 
 ServerTraits:
 	LobbyCommands
@@ -215,35 +215,35 @@ ChromeMetrics:
 
 Fonts:
 	Regular:
-		Font: common|FreeSans.ttf
+		Font: ra2|sarasa-fixed-sc-regular.ttf
 		Size: 14
 		Ascender: 11
 	Bold:
-		Font: common|FreeSansBold.ttf
+		Font: ra2|sarasa-fixed-sc-bold.ttf
 		Size: 14
 		Ascender: 11
 	Title:
-		Font: common|FreeSansBold.ttf
+		Font: ra2|sarasa-fixed-sc-bold.ttf
 		Size: 32
 		Ascender: 24
 	BigBold:
-		Font: common|FreeSansBold.ttf
+		Font: ra2|sarasa-fixed-sc-bold.ttf
 		Size: 24
 		Ascender: 18
 	MediumBold:
-		Font: common|FreeSansBold.ttf
+		Font: ra2|sarasa-fixed-sc-bold.ttf
 		Size: 18
 		Ascender: 14
 	Small:
-		Font: common|FreeSans.ttf
+		Font: ra2|sarasa-fixed-sc-regular.ttf
 		Size: 12
 		Ascender: 9
 	Tiny:
-		Font: common|FreeSans.ttf
+		Font: ra2|sarasa-fixed-sc-regular.ttf
 		Size: 10
 		Ascender: 8
 	TinyBold:
-		Font: common|FreeSansBold.ttf
+		Font: ra2|sarasa-fixed-sc-bold.ttf
 		Size: 10
 		Ascender: 8
 
@@ -273,27 +273,27 @@ AssetBrowser:
 
 GameSpeeds:
 	slowest:
-		Name: Slowest
+		Name: 很慢
 		Timestep: 80
 		OrderLatency: 2
 	slower:
-		Name: Slower
+		Name: 慢
 		Timestep: 50
 		OrderLatency: 3
 	default:
-		Name: Normal
+		Name: 正常
 		Timestep: 40
 		OrderLatency: 3
 	fast:
-		Name: Fast
+		Name: 有点快
 		Timestep: 35
 		OrderLatency: 4
 	faster:
-		Name: Faster
+		Name: 快
 		Timestep: 30
 		OrderLatency: 4
 	fastest:
-		Name: Fastest
+		Name: 非常快
 		Timestep: 20
 		OrderLatency: 6
 

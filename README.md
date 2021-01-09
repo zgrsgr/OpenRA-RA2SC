@@ -8,4 +8,4 @@
 
 EA尚未认可也不支持此产品。
 
-ps：本汉化版采用OpenRA汉化组的汉化版引擎（prep-2003-sc），地址：https://gitee.com/CastleJing/OpenRA。
+ps：本汉化版采用OpenRA汉化组的汉化版引擎（prep-2003-sc），地址：https://gitee.com/CastleJing/OpenRA 。

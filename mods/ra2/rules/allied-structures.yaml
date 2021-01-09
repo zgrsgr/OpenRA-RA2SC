@@ -179,7 +179,7 @@ gapile:
 		SelectionNotification: PrimaryBuildingSelected
 	WithTextDecoration@primary:
 		RequiresSelection: true
-		Text: PRIMARY
+		Text: 主要
 		ReferencePoint: Top
 		ZOffset: 256
 		RequiresCondition: primary
@@ -340,7 +340,7 @@ gaairc:
 		SelectionNotification: PrimaryBuildingSelected
 	WithTextDecoration@primary:
 		RequiresSelection: true
-		Text: PRIMARY
+		Text: 主要
 		ReferencePoint: Top
 		ZOffset: 256
 		RequiresCondition: primary
@@ -414,7 +414,7 @@ gaweap:
 		SelectionNotification: PrimaryBuildingSelected
 	WithTextDecoration@primary:
 		RequiresSelection: true
-		Text: PRIMARY
+		Text: 主要
 		ReferencePoint: Top
 		ZOffset: 256
 		RequiresCondition: primary
@@ -563,7 +563,7 @@ gayard:
 		SelectionNotification: PrimaryBuildingSelected
 	WithTextDecoration@primary:
 		RequiresSelection: true
-		Text: PRIMARY
+		Text: 主要
 		ReferencePoint: Top
 		ZOffset: 256
 		RequiresCondition: primary

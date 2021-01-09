@@ -1,5 +1,7 @@
 # OpenRA RA2SC模组
 
+Red Alert 2 mod for OpenRA（Simplified Chinese）
+
 [![Build Status](https://travis-ci.org/OpenRA/ra2.svg?branch=master)](https://travis-ci.org/OpenRA/ra2)
 
 查阅[wiki](https://gitee.com/zgrsgr/open-ra-ra2-sc/wikis/)有关如何安装和使用此文件的说明

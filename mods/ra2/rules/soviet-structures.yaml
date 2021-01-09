@@ -197,7 +197,7 @@ nahand:
 		IsPlayerPalette: false
 	WithTextDecoration@primary:
 		RequiresSelection: true
-		Text: PRIMARY
+		Text: 主要
 		ReferencePoint: Top
 		ZOffset: 256
 		RequiresCondition: primary
@@ -363,7 +363,7 @@ naweap:
 		SelectionNotification: PrimaryBuildingSelected
 	WithTextDecoration@primary:
 		RequiresSelection: true
-		Text: PRIMARY
+		Text: 主要
 		ReferencePoint: Top
 		ZOffset: 256
 		RequiresCondition: primary
@@ -509,7 +509,7 @@ nayard:
 		SelectionNotification: PrimaryBuildingSelected
 	WithTextDecoration@primary:
 		RequiresSelection: true
-		Text: PRIMARY
+		Text: 主要
 		ReferencePoint: Top
 		ZOffset: 256
 		RequiresCondition: primary

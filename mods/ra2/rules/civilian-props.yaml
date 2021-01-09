@@ -1,7 +1,7 @@
 camisc01:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Barrels
+		Name: 桶
 	Health:
 		HP: 5
 	Armor:
@@ -16,7 +16,7 @@ camisc01:
 camisc02:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Barrel
+		Name: 桶
 	Health:
 		HP: 5
 	Armor:
@@ -31,7 +31,7 @@ camisc02:
 camisc03:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Dumpster
+		Name: 垃圾箱
 	Health:
 		HP: 100
 	Armor:
@@ -45,7 +45,7 @@ camisc03:
 camisc04:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Mailbox
+		Name: 信箱
 	Health:
 		HP: 10
 	Armor:
@@ -59,7 +59,7 @@ camisc04:
 camisc05:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Pipes
+		Name: 运输管
 	Health:
 		HP: 10
 	Armor:
@@ -77,7 +77,7 @@ camisc06:
 		Footprint: xx
 		Dimensions: 2, 1
 	Tooltip:
-		Name: V3 Ammunition
+		Name: V3火箭架
 	Health:
 		HP: 10
 	Armor:
@@ -93,7 +93,7 @@ camisc06:
 camsc11:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Tires
+		Name: 轮胎
 	Health:
 		HP: 10
 	Armor:
@@ -104,7 +104,7 @@ camsc11:
 camsc12:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Practice Target
+		Name: 练习目标
 	Health:
 		HP: 10
 	Armor:
@@ -119,7 +119,7 @@ camsc13:
 		Footprint: x x
 		Dimensions: 1, 2
 	Tooltip:
-		Name: Derelict Tank
+		Name: 废弃坦克
 	Health:
 		HP: 800
 	Armor:
@@ -130,7 +130,7 @@ camsc13:
 ammocrat:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Ammo Crates
+		Name: 弹药箱
 	Health:
 		HP: 1
 	RenderSprites:
@@ -141,7 +141,7 @@ ammocrat:
 camsc01:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Hot Dog Stand
+		Name: 热狗摊
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -154,7 +154,7 @@ camsc01:
 camsc02:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Beach Umbrellas
+		Name: 沙滩伞
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -167,7 +167,7 @@ camsc02:
 camsc03:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Beach Umbrellas
+		Name: 沙滩伞
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -180,7 +180,7 @@ camsc03:
 camsc04:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Beach Towels
+		Name: 沙滩毛巾
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -193,7 +193,7 @@ camsc04:
 camsc05:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Beach Towels
+		Name: 沙滩毛巾
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -206,7 +206,7 @@ camsc05:
 camsc06:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Camp Fire
+		Name: 营地篝火
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -220,7 +220,7 @@ caeuro05:
 	Inherits: ^CivBuilding
 	Inherits@shape: ^2x2Shape
 	Tooltip:
-		Name: Statue
+		Name: 雕像
 	Armor:
 		Type: concrete
 	RevealsShroud:
@@ -236,7 +236,7 @@ caeuro05:
 capark01:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Park Bench
+		Name: 公园长椅
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -248,7 +248,7 @@ capark02:
 	Inherits: ^CivBuilding
 	Inherits@shape: ^2x1Shape
 	Tooltip:
-		Name: Swing Set
+		Name: 秋千椅
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -263,7 +263,7 @@ capark03:
 	Inherits: ^CivBuilding
 	Inherits@shape: ^2x2Shape
 	Tooltip:
-		Name: Merry Go Round
+		Name: 旋转木马
 	RevealsShroud:
 		Range: 6c0
 	Health:
@@ -277,7 +277,7 @@ capark03:
 castrt01:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Traffic Light
+		Name: 交通指示灯
 	Armor:
 		Type: steel
 	RevealsShroud:
@@ -290,7 +290,7 @@ castrt01:
 castrt02:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Traffic Light
+		Name: 交通指示灯
 	Armor:
 		Type: steel
 	RevealsShroud:
@@ -303,7 +303,7 @@ castrt02:
 castrt03:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Traffic Light
+		Name: 交通指示灯
 	Armor:
 		Type: steel
 	RevealsShroud:
@@ -316,7 +316,7 @@ castrt03:
 castrt04:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Traffic Light
+		Name: 交通指示灯
 	Armor:
 		Type: steel
 	RevealsShroud:
@@ -329,7 +329,7 @@ castrt04:
 castrt05:
 	Inherits: ^CivBuilding
 	Tooltip:
-		Name: Bus Stop
+		Name: 公交站
 	Armor:
 		Type: steel
 	RevealsShroud:
@@ -343,7 +343,7 @@ camov01:
 	Inherits: ^CivBuilding
 	Inherits@shape: ^1x4Shape
 	Tooltip:
-		Name: Drive In Movie Screen
+		Name: 电幕
 	Armor:
 		Type: steel
 	RevealsShroud:
@@ -359,7 +359,7 @@ camov02:
 	Inherits: ^CivBuilding
 	Inherits@shape: ^2x2Shape
 	Tooltip:
-		Name: Drive In Movie Concession Stand
+		Name: 电幕
 	Armor:
 		Type: steel
 	RevealsShroud:
@@ -374,17 +374,17 @@ camov02:
 pole01:
 	Inherits: ^TelephonePole
 	Tooltip:
-		Name: Utility Pole
+		Name: 电线杆
 
 pole02:
 	Inherits: ^TelephonePole
 	Tooltip:
-		Name: Utility Pole
+		Name: 电线杆
 
 hdstn01:
 	Inherits: ^Tree
 	Tooltip:
-		Name: AlringtonStones
+		Name: 阿灵顿石头
 	MapEditorData:
 		Categories: Decoration
 	-MirageTarget:
@@ -452,7 +452,7 @@ sign06:
 spkr01:
 	Inherits: ^Tree
 	Tooltip:
-		Name: Drive-In Speaker
+		Name: 扬声器
 	MapEditorData:
 		Categories: Decoration
 	-MirageTarget:
@@ -505,7 +505,7 @@ carus07:
 cakrmw:
 	Inherits: ^Wall
 	Tooltip:
-		Name: Kremlin Walls
+		Name: 克里姆林宫墙
 	Armor:
 		Type: Concrete
 
@@ -525,7 +525,7 @@ gagate_a:
 	-WithSpriteBody:
 	WithGateSpriteBody:
 	Tooltip:
-		Name: Guard Border Crossing
+		Name: 警卫室
 	Building:
 		Dimensions: 3,1
 		Footprint: xxx

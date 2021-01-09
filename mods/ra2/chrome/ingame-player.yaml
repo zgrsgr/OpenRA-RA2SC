@@ -131,7 +131,7 @@ Container@PLAYER_WIDGETS:
 					DisableKeyRepeat: true
 					DisableKeySound: true
 					TooltipText: 部署
-					TooltipDesc: 选中的单位将执行其默认的部署动作\n  · MCV会展开成为建筑工厂\n  · 建筑工厂会收起成为MCV\n  · 运输载具会撤离乘员\n  · 自爆卡车和MAD坦克会执行自毁指令\n  · 飞行器会返回机场进行补给\n\n下达指令后立即生效
+					TooltipDesc: 选中的单位将执行其默认的部署动作\n  · MCV会展开成为建筑工厂\n  · 建筑工厂会收起成为MCV\n  · 运输载具会撤离乘员\n  · 自爆卡车和伊文会执行自毁指令\n  · 飞行器会返回机场进行补给\n\n下达指令后立即生效
 					TooltipContainer: TOOLTIP_CONTAINER
 					Children:
 						Image@ICON:

@@ -273,27 +273,27 @@ AssetBrowser:
 
 GameSpeeds:
 	slowest:
-		Name: 1
+		Name: 很慢
 		Timestep: 80
 		OrderLatency: 2
 	slower:
-		Name: 2
+		Name: 有点慢
 		Timestep: 50
 		OrderLatency: 3
 	default:
-		Name: 3
+		Name: 正常
 		Timestep: 40
 		OrderLatency: 3
 	fast:
-		Name: 4
+		Name: 有点快
 		Timestep: 35
 		OrderLatency: 4
 	faster:
-		Name: 5
+		Name: 很快
 		Timestep: 30
 		OrderLatency: 4
 	fastest:
-		Name: 6
+		Name: 非常快
 		Timestep: 20
 		OrderLatency: 6
 

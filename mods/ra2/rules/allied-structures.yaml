@@ -885,13 +885,13 @@ gaspysat:
 		Queue: Support
 		BuildPaletteOrder: 70
 		Prerequisites: gatech, ~structures.allies
-		Description: 制造不受心灵控制影响的机器人坦克
+		Description: 显示整个战场
 	Selectable:
 		Bounds: 96, 98, -4, -30
 	Valued:
 		Cost: 1500
 	Tooltip:
-		Name: 机器人控制中心
+		Name: 间谍卫星
 	Building:
 		Footprint: xx xx
 		Dimensions: 2,2
@@ -915,7 +915,7 @@ gaspysat:
 	SpawnSurvivors:
 		DeathTypes: ExplosionDeath, BulletDeath
 		Actors: e1, e1
-
+		
 gagap:
 	Inherits: ^SupportBuilding
 	Valued:

@@ -4,7 +4,7 @@ Red Alert 2 mod for OpenRA（Simplified Chinese）
 
 [![Build Status](https://travis-ci.org/OpenRA/ra2.svg?branch=master)](https://travis-ci.org/OpenRA/ra2)
 
-查阅[wiki](https://github.com/OpenRA/ra2/wiki)有关如何安装和使用此文件的说明
+查阅[wiki](https://github.com/zgrsgr/OpenRA-RA2SC/wiki)有关如何安装和使用此文件的说明
 
 [![Bountysource](https://api.bountysource.com/badge/tracker?tracker_id=27677844)](https://www.bountysource.com/teams/openra/issues?tracker_ids=27677844)
 

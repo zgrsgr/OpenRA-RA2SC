@@ -50,7 +50,7 @@ sub:
 	Valued:
 		Cost: 1000
 	Tooltip:
-		台风攻击潜艇
+		Name: 台风攻击潜艇
 	Health:
 		HP: 600
 	Armor:

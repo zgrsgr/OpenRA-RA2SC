@@ -438,9 +438,9 @@ yuripr:
 		BuildLimit: 1
 		BuildPaletteOrder: 290
 		Prerequisites: ~nahand, ~soviets.tech.infiltrated
-		Description:心灵步兵，可以在大范围内心灵控制敌人单位\n·可以被部署来释放强大的心灵波\n强势对抗：步兵、车辆\n·弱势对抗：恐怖无人机、飞行器、建筑\n\n·最多可以生产1个
+		Description:心灵步兵，可以在大范围内心灵控制敌人单位\n·可以被部署来释放强大的心灵波\n·强势对抗：步兵、车辆\n·弱势对抗：恐怖无人机、飞行器、建筑\n\n·最多可以生产1个
 	Tooltip:
-		Name: 尤里总理
+		Name: 尤里改
 	Valued:
 		Cost: 2000
 	DeliversCash:
@@ -457,3 +457,4 @@ yuripr:
 		Range: 8c0
 	Armament:
 		Weapon: SuperMindControl
+
